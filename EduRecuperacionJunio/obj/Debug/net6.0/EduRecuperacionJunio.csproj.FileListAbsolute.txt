@@ -1,0 +1,14 @@
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\bin\Debug\net6.0\EduRecuperacionJunio.exe
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\bin\Debug\net6.0\EduRecuperacionJunio.deps.json
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\bin\Debug\net6.0\EduRecuperacionJunio.runtimeconfig.json
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\bin\Debug\net6.0\EduRecuperacionJunio.dll
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\bin\Debug\net6.0\EduRecuperacionJunio.pdb
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\obj\Debug\net6.0\EduRecuperacionJunio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\obj\Debug\net6.0\EduRecuperacionJunio.AssemblyInfoInputs.cache
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\obj\Debug\net6.0\EduRecuperacionJunio.AssemblyInfo.cs
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\obj\Debug\net6.0\EduRecuperacionJunio.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\obj\Debug\net6.0\EduRecuperacionJunio.dll
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\obj\Debug\net6.0\refint\EduRecuperacionJunio.dll
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\obj\Debug\net6.0\EduRecuperacionJunio.pdb
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\obj\Debug\net6.0\EduRecuperacionJunio.genruntimeconfig.cache
+C:\Users\Profesor\source\repos\EduRecuperacionJunio\EduRecuperacionJunio\obj\Debug\net6.0\ref\EduRecuperacionJunio.dll
