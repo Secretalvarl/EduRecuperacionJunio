@@ -16,6 +16,7 @@ namespace EduRecuperacionJunio.Controladores
         static void Main(string[] args)
         {
             FicheroInterfaz fi = new FicheroImplementacion();
+            fi.cargaInicial();
             MenuInterfaz mi= new MenuImplementacion();
             OperativaInterfaz oi = new OperativaImplementacion();
 
@@ -48,10 +49,6 @@ namespace EduRecuperacionJunio.Controladores
                             break;
                         case 2:
                             oi.altaNuevoPropietario();
-                            foreach (PropietarioDto propietario in listaPropietarios)
-                            {
-                                Console.WriteLine(propietario.ToString('-'));
-                            }
                             fi.crearFicheroLog("Alta nuevo propietario");
                             break;
                         default:

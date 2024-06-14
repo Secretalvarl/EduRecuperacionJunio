@@ -44,6 +44,10 @@ namespace EduRecuperacionJunio.Servicios
                 if (eleccion.Equals("No")){
 
                     cerrarPropietario = true;
+                    foreach (PropietarioDto propietario in Program.listaPropietarios)
+                    {
+                        Console.WriteLine(propietario.ToString('-'));
+                    }
                 }
 
             }while (!cerrarPropietario);
